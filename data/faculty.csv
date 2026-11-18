@@ -1,0 +1,5 @@
+faculty_id,full_name,email,department,designation,specialization
+FAC201,Dr. Meera Kulkarni,meera.k@university.edu,Computer Science,Associate Professor,Object-Oriented Systems & Java
+FAC202,Prof. Rajeshwari Rao,rajeshwari.r@university.edu,Computer Science,Assistant Professor,Database Management Systems
+FAC203,Dr. Vikramaditya Sen,vikram.s@university.edu,Electronics,Professor,Embedded Systems
+FAC204,Prof. Neha Deshmukh,neha.d@university.edu,Information Technology,Assistant Professor,Data Structures & Algorithms

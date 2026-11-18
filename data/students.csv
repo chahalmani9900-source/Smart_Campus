@@ -1,0 +1,6 @@
+student_id,full_name,email,department,semester,gpa,phone
+STU101,Aarav Sharma,aarav.sharma@university.edu,Computer Science,3,8.95,9876543210
+STU102,Diya Nair,diya.nair@university.edu,Computer Science,3,9.2,9876543211
+STU103,Rohan Verma,rohan.verma@university.edu,Electronics,3,8.15,9876543212
+STU104,Ananya Iyer,ananya.iyer@university.edu,Information Technology,3,9.4,9876543213
+STU105,Kabir Mehta,kabir.mehta@university.edu,Mechanical,5,7.85,9876543214

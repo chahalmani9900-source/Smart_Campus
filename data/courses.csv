@@ -1,0 +1,5 @@
+course_code,course_name,department,credits,faculty_id
+25CSE0202,Programming in Java,Computer Science,4,FAC201
+25CSE0204,Database Management Systems,Computer Science,4,FAC202
+25ECE0201,Digital Logic Design,Electronics,3,FAC203
+25ITE0203,Data Structures in Practice,Information Technology,4,FAC204
