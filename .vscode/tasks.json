@@ -1,0 +1,13 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "Compile Smart Campus",
+      "type": "shell",
+      "command": "${workspaceFolder}/run-java.sh",
+      "windows": { "command": "${workspaceFolder}\\run-java.bat" },
+      "problemMatcher": "$javac",
+      "group": { "kind": "build", "isDefault": true }
+    }
+  ]
+}
