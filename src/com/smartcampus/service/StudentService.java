@@ -20,7 +20,8 @@ import java.util.Map;
 import java.util.TreeMap;
 import java.util.stream.Collectors;
 
-/** Student management and persistence using basic JDBC or local CSV files. */
+/** Student management and persistence using basic JDBC or local CSV files.
+ *  Supports full CRUD operations with duplicate detection. */
 public class StudentService {
     private static final String CSV_PATH = "data/students.csv";
 
