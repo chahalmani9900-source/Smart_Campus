@@ -23,6 +23,7 @@ import java.util.stream.Collectors;
 
 /**
  * Generates analytical campus reports using Java Lambda Expressions and Stream API.
+ * Provides dashboard overview, honors list, department stats, and attendance summary.
  */
 public class ReportService {
     public void printDashboardOverview() throws DatabaseOperationException {
