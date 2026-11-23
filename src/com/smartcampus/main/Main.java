@@ -28,7 +28,8 @@ import java.util.List;
 import java.util.Map;
 import java.util.Scanner;
 
-/** The single entry point for the Smart Campus programs. */
+/** The single entry point for the Smart Campus programs.
+ *  Supports both web server mode and console interactive mode. */
 public class Main {
     public static void main(String[] args) throws IOException {
         if (args.length > 0 && "--console".equalsIgnoreCase(args[0])) {
