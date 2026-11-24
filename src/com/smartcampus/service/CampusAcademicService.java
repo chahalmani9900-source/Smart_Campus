@@ -20,7 +20,8 @@ import java.sql.SQLException;
 import java.util.ArrayList;
 import java.util.List;
 
-/** Coordinates academic operations using basic JDBC or local CSV files. */
+/** Coordinates academic operations using basic JDBC or local CSV files.
+ *  Manages faculty, courses, attendance records, and campus events. */
 public class CampusAcademicService {
     private static final String FACULTY_CSV = "data/faculty.csv";
     private static final String COURSE_CSV = "data/courses.csv";
