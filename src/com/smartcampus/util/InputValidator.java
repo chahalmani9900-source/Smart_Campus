@@ -6,6 +6,7 @@ import com.smartcampus.exception.InvalidStudentException;
 /**
  * Utility class providing static validation methods using String handling.
  * Ensures all user inputs are sanitized before persisting to database or CSV.
+ * Ensures all user inputs are sanitized before persisting to database or CSV.
  */
 public class InputValidator {
 
