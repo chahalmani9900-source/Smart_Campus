@@ -1,7 +1,7 @@
 package com.smartcampus.model;
 
 /**
- * Abstract base class representing a campus member.
+ * Abstract base class representing a campus member (student or faculty).
  * Demonstrates Abstraction, Encapsulation, Constructors, and 'this' keyword.
  */
 public abstract class Person {
