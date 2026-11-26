@@ -6,6 +6,9 @@ package com.smartcampus.model;
  *
  * @author Manish Chahal
  * @author Moulik
+ *
+ * @author Manish Chahal
+ * @author Moulik
  */
 public class Student extends Person implements Comparable<Student> {
     private Integer semester;
