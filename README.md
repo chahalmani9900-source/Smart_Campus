@@ -1,5 +1,7 @@
 # Smart Campus Management System
 
+> A collaborative Java project by Manish Chahal and Moulik
+
 A Java console-based campus management project with a separate static web demo interface.
 
 ## Requirements
